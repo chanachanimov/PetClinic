@@ -1,0 +1,7 @@
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Debug\PetClinic.csproj.AssemblyReference.cache
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Debug\PetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Chana\Desktop\PetClinic\PetClinic\bin\Debug\PetClinic.exe.config
+C:\Users\Chana\Desktop\PetClinic\PetClinic\bin\Debug\PetClinic.exe
+C:\Users\Chana\Desktop\PetClinic\PetClinic\bin\Debug\PetClinic.pdb
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Debug\PetClinic.exe
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Debug\PetClinic.pdb

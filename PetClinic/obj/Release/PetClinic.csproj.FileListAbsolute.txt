@@ -1,0 +1,7 @@
+C:\Users\Chana\Desktop\PetClinic\PetClinic\bin\Release\PetClinic.exe.config
+C:\Users\Chana\Desktop\PetClinic\PetClinic\bin\Release\PetClinic.exe
+C:\Users\Chana\Desktop\PetClinic\PetClinic\bin\Release\PetClinic.pdb
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Release\PetClinic.csproj.AssemblyReference.cache
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Release\PetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Release\PetClinic.exe
+C:\Users\Chana\Desktop\PetClinic\PetClinic\obj\Release\PetClinic.pdb
